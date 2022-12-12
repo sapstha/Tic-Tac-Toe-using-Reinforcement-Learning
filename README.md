@@ -1,9 +1,32 @@
 # Tic-Tac-Toe-using-Reinforcement-Learning
 <pre>
-We implemented the Tic-Tac-Toe game using Reinforcement Learning. 
-1. The first approach was to train the two agents to play with each other through 5000 random games.
-   Then the respective agents would save their policies.
-2. The second approach was to load the saved policies so that the agent can play against the human.
+The name of our project is Tic-tac-toe and the realm of AI that it uses is reinforcement learning.The objective of our project is to 
+create an intelligent system that can optimally play Tic-Tac-Toe using two phases which are as follows:
+1.Training phase, during which two different AI agents can play against each other and 
+2.Test phase, during which the trained AI Model will play against a human being.
+As mentioned earlier, the chosen approach is reinforcement learning and the elements of any problem to be solved are as follows: 
+State, Action, and Reward. It works to reward the agent based on the action it has taken on a state. Therefore, we will first train 
+the Model and then allow it to play against a human being.
+
+These are the steps involved in Setting-up the game of Tic-Tac-Toe: 
+-Two agents play against each other in 5000 random games
+-Rewards are provided based on action
+-Policy is setup based on this reward
+-Model becomes ready to play against human
+-Human being plays against the Model
+
+The technology which has been used is Python, IDE used is VS Code and the version Control is GitHub.
+
+Reinforcement learning, used to complete this project, works in the following way: 
+There are certain number of states of any problem to be solved. One of these states is the 'goal' state, which is to be ideally achieved. 
+Then there is another factor called an action, which is taken over a state. The system is supposed to take an action on the current state, 
+which may not may not lead to the goal state. While training, our system acts, and receives a reward based on whether that action leads to 
+the goal state or not. Based on these rewards, the system learns what actions should be taken on what state. 
+
+The project can be evaluated based on accurate Functioning of AI agent without any failures during the game in a major way. 
+Along with that the final goal and actions of the agent should be based on defeating the opponent agent while training and 
+the human/user while actual implementation.The agent should be trained in such a way that while playing with a human player,
+it should seem as if two human brains are playing.
 
 Lets Play the Game:
 Scenario 1: Agent Wins Against Human
