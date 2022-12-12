@@ -1,8 +1,9 @@
 # Tic-Tac-Toe-using-Reinforcement-Learning
 <pre>
 We implemented the Tic-Tac-Toe game using Reinforcement Learning. 
-The first approach was to train the two agents to play with each other through 5000 random games.Then the respective agents would save their policies.
-The second approach was to load the saved policies so that the agent can play against the human.
+1. The first approach was to train the two agents to play with each other through 5000 random games.
+   Then the respective agents would save their policies.
+2. The second approach was to load the saved policies so that the agent can play against the human.
 
 Lets Play the Game:
 Scenario 1: Agent Wins Against Human
