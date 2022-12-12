@@ -18,10 +18,11 @@ These are the steps involved in Setting-up the game of Tic-Tac-Toe:
 The technology which has been used is Python, IDE used is VS Code and the version Control is GitHub.
 
 Reinforcement learning, used to complete this project, works in the following way: 
-There are certain number of states of any problem to be solved. One of these states is the 'goal' state, which is to be ideally achieved. 
-Then there is another factor called an action, which is taken over a state. The system is supposed to take an action on the current state, 
-which may not may not lead to the goal state. While training, our system acts, and receives a reward based on whether that action leads to 
-the goal state or not. Based on these rewards, the system learns what actions should be taken on what state. 
+There are certain number of states of any problem to be solved. One of these states is the 'goal' state, which is to be ideally 
+achieved. Then there is another factor called an action, which is taken over a state. The system is supposed to take an action 
+on the current state, which may not may not lead to the goal state. While training, our system acts, and receives a reward based
+on whether that action leads to the goal state or not. Based on these rewards, the system learns what actions should be taken on 
+what state. 
 
 The project can be evaluated based on accurate Functioning of AI agent without any failures during the game in a major way. 
 Along with that the final goal and actions of the agent should be based on defeating the opponent agent while training and 
