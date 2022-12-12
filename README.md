@@ -29,6 +29,8 @@ Along with that the final goal and actions of the agent should be based on defea
 the human/user while actual implementation.The agent should be trained in such a way that while playing with a human player,
 it should seem as if two human brains are playing.
 
+Youtube Link:https://www.youtube.com/channel/UCuxBTTGB40H-8ZVtb-38S7g
+
 Lets Play the Game:
 Scenario 1: Agent Wins Against Human
 training...
