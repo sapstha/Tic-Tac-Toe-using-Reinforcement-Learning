@@ -3,7 +3,7 @@ AI Project
 We implemented the Tic-Tac-Toe game using Reinforcement Learning. 
 The first approach was to train the two agents to play with each other using about 5000 random games.Then the respective agents would save their policies.
 The second approach was to load the saved policies so that the agent can play against the human.
-
+<pre>
 Lets Play the Game:
 Scenario 1: Agent Wins Against Human
 training...
@@ -13,7 +13,7 @@ Rounds 2000
 Rounds 3000
 Rounds 4000
 -------------
-|####   |   |   | 
+|   |   |   | 
 ------------- 
 |   | x |   |
 -------------
@@ -132,3 +132,4 @@ Input your action col:0
 | o | o | x |
 -------------
 tie!
+</pre>
