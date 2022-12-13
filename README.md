@@ -4,7 +4,7 @@ The name of our project is Tic-tac-toe and the realm of AI that it uses is reinf
 create an intelligent system that can optimally play Tic-Tac-Toe using two phases which are as follows:
 1.Training phase, during which two different AI agents can play against each other and 
 2.Test phase, during which the trained AI Model will play against a human being.
-As mentioned earlier, the chosen approach is reinforcement learning and the elements of any problem to be solved are as follows: 
+As mentioned earlier, the chosen approach is reinforcement learning and the elements and it has three elements as : 
 State, Action, and Reward. It works to reward the agent based on the action it has taken on a state. Therefore, we will first train 
 the Model and then allow it to play against a human being.
 
@@ -12,7 +12,7 @@ These are the steps involved in Setting-up the game of Tic-Tac-Toe:
 -Two agents play against each other in 5000 random games
 -Rewards are provided based on action
 -Policy is setup based on this reward
--Model becomes ready to play against human
+-Model becomes ready to play against human using the saved policy
 -Human being plays against the Model
 
 The technology which has been used is Python, IDE used is VS Code and the version Control is GitHub.
