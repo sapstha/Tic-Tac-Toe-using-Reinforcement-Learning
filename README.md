@@ -31,6 +31,13 @@ it should seem as if two human brains are playing.
 
 Youtube Link:https://www.youtube.com/channel/UCuxBTTGB40H-8ZVtb-38S7g
 
+#Instruction:
+1.Clone this repository
+  https://github.com/sapstha/Tic-Tac-Toe-using-Reinforcement-Learning.git
+2.Go into the repository and from command prompt type:
+  python tic_tac_toe.py
+3.Play the game
+
 Lets Play the Game:
 Scenario 1: Agent Wins Against Human
 training...
